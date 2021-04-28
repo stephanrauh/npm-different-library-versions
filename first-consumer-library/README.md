@@ -1,0 +1,1 @@
+Simple demo showing that npm can bundle different versions of the same library.
