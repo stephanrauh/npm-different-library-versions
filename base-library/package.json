@@ -1,11 +1,15 @@
 {
   "name": "beyondjava-example-base-library",
-  "version": "2.1.0",
-  "description": "",
+  "version": "3.0.2",
+  "description": "Base library demonstrating how npm resolves transitive dependencies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stephan Rauh",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/stephanrauh/npm-different-library-versions"
+  },
+  "homepage": "https://www.beyondjava.net/npm-transitive-dependencies"
 }

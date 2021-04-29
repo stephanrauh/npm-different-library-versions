@@ -1,6 +1,6 @@
 {
   "name": "beyondjava-example-second-library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Stephan Rauh",
   "license": "Apache-2.0",
+  "repository": {
+    "url": "https://github.com/stephanrauh/npm-different-library-versions"
+  },
+  "homepage": "https://www.beyondjava.net/npm-transitive-dependencies",
   "dependencies": {
     "beyondjava-example-base-library": "3.0.0"
   }

@@ -1,4 +1,4 @@
-Simple demo showing that npm can bundle different versions of the same library.
+Simple demo showing that npm and Webpack can bundle different versions of the same library. Read the full story at https://www.beyondjava.net/npm-transitive-dependencies.
 
 There are three versions of the library:
 
@@ -23,6 +23,8 @@ function printDeepThoughts() {
 
 module.exports = printDeepThoughts;
 ```
+
+## Version 3.0.x
 
 ```javascript
 class DeepThought {
